@@ -1,6 +1,2 @@
-sdass
-<<<<<<< HEAD
+sd
 creating a new brancj is qiuck ADD simple.
-=======
-creating a new brancj is quick ADD simple.
->>>>>>> feature1
